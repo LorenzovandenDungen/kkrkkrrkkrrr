@@ -1,0 +1,28 @@
+.tv1 {
+  background: rgba(255, 255, 255, 1);
+  width: 1280px;
+  height: 720px;
+  display: block;
+  overflow: hidden;
+  position: relative;
+}
+.component:global(.__wab_instance) {
+  position: absolute;
+  top: 25px;
+  left: 396px;
+}
+.c:global(.__wab_instance) {
+  position: absolute;
+  top: 390px;
+  left: 263px;
+}
+.cc:global(.__wab_instance) {
+  position: absolute;
+  top: 488px;
+  left: 263px;
+}
+.ccc:global(.__wab_instance) {
+  position: absolute;
+  top: 598px;
+  left: 371px;
+}

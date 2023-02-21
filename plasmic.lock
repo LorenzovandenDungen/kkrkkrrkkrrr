@@ -1,0 +1,89 @@
+{
+  "projects": [
+    {
+      "projectId": "4UWuoUxBjJSz5QMN4ogHwp",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "nWmeLnkCzlCXb",
+          "checksum": "257b8d983db7002b827041d6234e2845"
+        },
+        {
+          "assetId": "4UWuoUxBjJSz5QMN4ogHwp",
+          "type": "projectCss",
+          "checksum": "37c27a617864f3560d9f91aea7bd7c19"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "R-08Ny1YzJ5W",
+          "checksum": "eeec0bf1ed177292c64c90125a4d6a70"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "R-08Ny1YzJ5W",
+          "checksum": "eeec0bf1ed177292c64c90125a4d6a70"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "YhnFTIPHVr",
+          "checksum": "24b41302f6a247bf750151d617da7c50"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "YhnFTIPHVr",
+          "checksum": "24b41302f6a247bf750151d617da7c50"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "J3ekppzqTn",
+          "checksum": "06200c11e939d7c11db2dd4bc9d818f9"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "J3ekppzqTn",
+          "checksum": "06200c11e939d7c11db2dd4bc9d818f9"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "9PguJREveg",
+          "checksum": "7f4a5f28cf8145ba4e01feffd3d0443f"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "9PguJREveg",
+          "checksum": "7f4a5f28cf8145ba4e01feffd3d0443f"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "L6oeE8-ab_",
+          "checksum": "7db2aef46af11a8ac7f128938ecc96f3"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "L6oeE8-ab_",
+          "checksum": "7db2aef46af11a8ac7f128938ecc96f3"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "YyBaOWAnjs",
+          "checksum": "8f5ad883177991c28507a52f7640c347"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "YyBaOWAnjs",
+          "checksum": "8f5ad883177991c28507a52f7640c347"
+        },
+        {
+          "type": "image",
+          "assetId": "x_ITZIjoN",
+          "checksum": "9c975b2d3c42351d24cab4ebfc6889ea"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.213"
+}
